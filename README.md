@@ -1,16 +1,4 @@
 # ar_furniture
+![1 - Scan Object](https://user-images.githubusercontent.com/38234356/109755526-c3bdfe80-7c18-11eb-88a0-5a0ef305c3dd.png)
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2 - Detail Product](https://user-images.githubusercontent.com/38234356/109755534-c882b280-7c18-11eb-9bfa-19b7e86e6e07.png)
